@@ -1,4 +1,5 @@
 # project sumo
+edit: hey kids. it is entirely possible to make a cheat out of this.
 (very) pasted
 
 lightweight C++20 external base
